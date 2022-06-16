@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: thingsboard
+  annotations:
+    github.com/project-slug: scando-pe/thingsboard
+spec:
+  type: other
+  lifecycle: unknown
+  owner: PE
